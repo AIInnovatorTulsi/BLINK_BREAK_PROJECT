@@ -1,0 +1,7 @@
+{
+    "break_interval_minutes": 5.0,
+    "break_duration_minutes": 5.0,
+    "sound_enabled": false,
+    "notifications_enabled": true,
+    "window_transparency": 0.9
+}
